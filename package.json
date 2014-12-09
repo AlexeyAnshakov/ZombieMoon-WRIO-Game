@@ -1,8 +1,8 @@
 {
-	"name": "Titter-WRIO-App",
-	"description": "https://github.com/webRunes/Image-WRIO-App/",
+	"name": "ZombieMoon-WRIO-Game",
+	"description": "https://github.com/webRunes/ZombieMoon-WRIO-Game/",
 	"private": true,
-	"repository": "https://github.com/webRunes/Image-WRIO-App.git",
+	"repository": "https://github.com/webRunes/ZombieMoon-WRIO-Game.git",
 	"main": "lib/wrio.js",
 	"engines": {
 		"node": ">= v0.8.0"
